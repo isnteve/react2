@@ -16,6 +16,7 @@ function MeuTitulo() {
   return (
     <h1>Projeto Integrador</h1>
   );
+  
 }
 function MinhaTabela() {
   return (
